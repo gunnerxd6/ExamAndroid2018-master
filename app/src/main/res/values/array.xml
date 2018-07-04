@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+
+    <string-array name="sp_tipo">
+        <item value="Municipal">Municipal</item>
+        <item value="Privado">Privado</item>
+    </string-array>
+
+    <string-array name="sp_nivel">
+        <item>Enseñanza Básica</item>
+        <item>Enseñanza Media</item>
+        <item>Ambos - Enseñanza Básica y Media</item>
+    </string-array>
+</resources>

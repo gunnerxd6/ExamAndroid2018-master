@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "589383843249",
+    "firebase_url": "https://examenandroid-4bd28.firebaseio.com",
+    "project_id": "examenandroid-4bd28",
+    "storage_bucket": "examenandroid-4bd28.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:589383843249:android:d19c53e5ad69bd67",
+        "android_client_info": {
+          "package_name": "com.app.expensecontroller.examandroid"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "589383843249-ujci02vmttsi9bvs5hla1a1e688jg8fu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDnCWAVLJ3sTbwvr7U4RBAF7XHo3_VWBlQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
